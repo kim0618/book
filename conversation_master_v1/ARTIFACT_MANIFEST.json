@@ -1,20 +1,5 @@
 [
   {
-    "path": ".gitattributes",
-    "bytes": 90,
-    "sha256": "9708afafe6600991d4f7c40ebdde5da8bcfadd9c5db2597e698eed41fb65efba"
-  },
-  {
-    "path": ".gitignore",
-    "bytes": 419,
-    "sha256": "975a9425b907baf7f1304bb0f0373f30e496d71d98a32551f59fd0b89636ce7c"
-  },
-  {
-    "path": "README",
-    "bytes": 942,
-    "sha256": "5e34e8b80a65a47a8711ad9e651e3c148210e63dc61ca99c2ffbfcb5933ede51"
-  },
-  {
     "path": "conversation_master_v1/AUDIT_DATA.json",
     "bytes": 3191,
     "sha256": "6c455978bad8ec45e3f96c2f0a6a3a13b7589203d995b99ad0809cd58c960f02"
@@ -291,7 +276,7 @@
   },
   {
     "path": "conversation_master_v1/tools/archive.py",
-    "bytes": 51472,
-    "sha256": "b8ffefd5b0e01b5e4719ae33883920ae07cb9d061e72a78538536140e2e6f68b"
+    "bytes": 51518,
+    "sha256": "b6d025c3478f8ac08be4640818f4c67e8ac29f98974baa9b058b130f221c6fa7"
   }
 ]

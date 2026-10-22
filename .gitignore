@@ -1,14 +1,22 @@
-# This repository tracks the conversation-master deliverables only.
-# Existing manuscripts and operational evidence remain unchanged on disk.
+# Tracked: project docs, the conversation master and the manuscript only.
+# Previous manuscripts, outlines and operational evidence stay on the local disk.
 /*
 !/.gitignore
 !/.gitattributes
-!/README
+!/README.md
+!/CLAUDE.md
 !/conversation_master_v1/
+!/manuscript/
 
 # Unmodified exports, credentials, private/work records and recovery inputs.
 /conversation_master_v1/SOURCE_ARCHIVE/*
 !/conversation_master_v1/SOURCE_ARCHIVE/README.md
+
+# Private mappings between masked names and real names never enter Git.
+**/*private*
+.env
+.env.*
+
 **/__pycache__/
 *.pyc
 *:Zone.Identifier

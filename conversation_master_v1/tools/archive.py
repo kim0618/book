@@ -511,7 +511,8 @@ def artifact_files():
 
 
 def manifest():
-    files = artifact_files() + [ARCH / 'README.md', REPO / 'README', REPO / '.gitignore', REPO / '.gitattributes']
+    # Repository-level files (README.md, CLAUDE.md, .git*, manuscript/) change independently of the archive.
+    files = artifact_files() + [ARCH / 'README.md']
     write_json(BASE / 'ARTIFACT_MANIFEST.json', [dict(path=p.relative_to(REPO).as_posix(), bytes=p.stat().st_size,
                                                     sha256=file_sha(p)) for p in sorted(files)])
 
