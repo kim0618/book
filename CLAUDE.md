@@ -16,4 +16,9 @@
 - `conversation_master_v1/`의 데이터·파일명·경로·사건 ID·메시지 ID는 수정하지 않는다. 변경 후에는 `python3 conversation_master_v1/tools/archive.py check-files`로 확인한다.
 - 원고는 `manuscript/chapters/`에, 근거는 `manuscript/SOURCES.md`에 기록한다.
 - 클라우드 세션은 로컬 `SOURCE_ARCHIVE/`에 접근할 수 없다. 가림(`⟦…⟧`)된 내용을 추측해 복원하지 않는다.
-- 커밋은 작업한 파일만 명시적으로 스테이징한다. 강제 push와 이력 재작성은 하지 않는다.
+
+## Git 운영
+
+- 이 프로젝트는 `main` 브랜치만 사용한다. 새 브랜치 생성, 다른 브랜치 전환, PR, force push를 금지한다.
+- 작업 전 다른 세션의 변경 사항(`origin/main`)을 확인한다.
+- 사용자 승인 없이 commit 또는 push하지 않는다. 승인 후에는 작업한 파일만 명시적으로 스테이징한다.
