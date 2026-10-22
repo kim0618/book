@@ -1,0 +1,14 @@
+# This repository tracks the conversation-master deliverables only.
+# Existing manuscripts and operational evidence remain unchanged on disk.
+/*
+!/.gitignore
+!/.gitattributes
+!/README
+!/conversation_master_v1/
+
+# Unmodified exports, credentials, private/work records and recovery inputs.
+/conversation_master_v1/SOURCE_ARCHIVE/*
+!/conversation_master_v1/SOURCE_ARCHIVE/README.md
+**/__pycache__/
+*.pyc
+*:Zone.Identifier

@@ -1,0 +1,297 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 90,
+    "sha256": "9708afafe6600991d4f7c40ebdde5da8bcfadd9c5db2597e698eed41fb65efba"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 419,
+    "sha256": "975a9425b907baf7f1304bb0f0373f30e496d71d98a32551f59fd0b89636ce7c"
+  },
+  {
+    "path": "README",
+    "bytes": 942,
+    "sha256": "5e34e8b80a65a47a8711ad9e651e3c148210e63dc61ca99c2ffbfcb5933ede51"
+  },
+  {
+    "path": "conversation_master_v1/AUDIT_DATA.json",
+    "bytes": 3191,
+    "sha256": "6c455978bad8ec45e3f96c2f0a6a3a13b7589203d995b99ad0809cd58c960f02"
+  },
+  {
+    "path": "conversation_master_v1/BOOK_CONVERSATION_MASTER.md",
+    "bytes": 964906,
+    "sha256": "3baf6076a6ebf9ffaf52b8c2bc0ccd1aeeaf52f33d3018a426a19aa2aee9bd82"
+  },
+  {
+    "path": "conversation_master_v1/CROSS_LINKS.json",
+    "bytes": 1130876,
+    "sha256": "4047f7393d7d338c0c8466d7a33d4582edfec063e4f26b460a6d9df0256ea08b"
+  },
+  {
+    "path": "conversation_master_v1/EVENTS.json",
+    "bytes": 2310313,
+    "sha256": "e34d316dbb2fc6e8248f76fd2f52880e1cbc21e5a4f07672265672ad2d8c8b1e"
+  },
+  {
+    "path": "conversation_master_v1/MASTER_AUDIT.md",
+    "bytes": 6368,
+    "sha256": "006f87da9512405cee2cdb9e2c6d5a8cddd329d48f8668e7fa850b67398272bd"
+  },
+  {
+    "path": "conversation_master_v1/MASTER_INDEX.md",
+    "bytes": 552202,
+    "sha256": "f1e770e72900c15539a5a793f5184b54d7c6e9955c3ad946137880e067e9505b"
+  },
+  {
+    "path": "conversation_master_v1/MESSAGE_LEDGER.json",
+    "bytes": 14890615,
+    "sha256": "30be6c357f345cfca5b67f7980e7e1ed9b04b578f222495387298d0c57f58c5f"
+  },
+  {
+    "path": "conversation_master_v1/SOURCE_ARCHIVE/README.md",
+    "bytes": 1479,
+    "sha256": "3b65d202759e933d2627ce43be2efc551a6d84b3482313d0c66934ef8ff5f76e"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-08_01.md",
+    "bytes": 5127972,
+    "sha256": "7c80e0fd723e3de86b42e1fa2ec196279ab52bc6430d678bc43cad3db998a36f"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-09_01.md",
+    "bytes": 6870857,
+    "sha256": "301a2ba970e53086e180f8d2cabe8f070ac06392b4b2280ffb138463ef39f076"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-09_02.md",
+    "bytes": 6626053,
+    "sha256": "8773751320221fc4e2e24a27cab2d45cf8057ef8b0c6352ea17c7b700637b509"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-09_03.md",
+    "bytes": 6933600,
+    "sha256": "45a9cd4311ca2580eebd1003f5bbac9246af0c9c5635b1972ff32e121dcffc03"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-09_04.md",
+    "bytes": 6791594,
+    "sha256": "b7dc29eef75d24b8e7047a7a4b28c51f64794ab0cf638831b0c06c5ddb8a665d"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-09_05.md",
+    "bytes": 6921850,
+    "sha256": "d972bb1010f66127fdb2d3d89576b10f15b08d6295bba608026cf5158192c399"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-09_06.md",
+    "bytes": 6894434,
+    "sha256": "ac62383e52691e63e5430a09ba5f54b5ddea17145680a8f9a497e13b9ec8456e"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-09_07.md",
+    "bytes": 1522697,
+    "sha256": "aa5e2b08bfc7f5df96897e2c76bd6197babbb95faa657d469ad5ac3d77d856fc"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-10_01.md",
+    "bytes": 6980847,
+    "sha256": "20d489e32014edbff317f1a1fcbf2375c4d31f1d438e8d3fb1c1e2dea510774d"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-10_02.md",
+    "bytes": 6942949,
+    "sha256": "ad89ef7c987f88892667e72ea9df7d1b4c0d76cb701a0801076169a325e40bd2"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-10_03.md",
+    "bytes": 6978473,
+    "sha256": "2d56f9d7d9a76cf43bcb72b5a528f4a0d7ef2bd6bfc34680d863e20df8883e3e"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-10_04.md",
+    "bytes": 6434048,
+    "sha256": "235aad6570fac7d0708eaa78c6d8e403af21b9fa6af69e59dc7f242a3b67e784"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-10_05.md",
+    "bytes": 6467682,
+    "sha256": "6a0e8e9820fc02335b1c4ffd412b689877c8805efcebdd136f1d70d01e8b017f"
+  },
+  {
+    "path": "conversation_master_v1/parts/local_2026-10_06.md",
+    "bytes": 6211695,
+    "sha256": "4ae91f732cb79c63a9a600632229b0882ac5a35eb061127bc7ccca623bd13a14"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2024-05_01.md",
+    "bytes": 54617,
+    "sha256": "cd1cbabb02b3e29574add76818b33c12ba1d06783be304d6fbd6dba103f3e189"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2024-06_01.md",
+    "bytes": 38424,
+    "sha256": "91ebe361cfa7a3fbde1980f151bc132a5e23f38d8027580b2dd6a84c8d2f495a"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2024-07_01.md",
+    "bytes": 44672,
+    "sha256": "9e226934c03a0e61d9f09bc46a9a0459795cda4930b1edf5c74a971e53d23772"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2024-08_01.md",
+    "bytes": 86442,
+    "sha256": "8e1a91398dcc9c10f5604f3188664eb1485ba08ae03d48bf4d93272eba304433"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2024-09_01.md",
+    "bytes": 59037,
+    "sha256": "5c70f852a27aa212b0278ebdeb4198ed232db91680636eb268e8baa1f57dbf70"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2024-10_01.md",
+    "bytes": 345662,
+    "sha256": "97bf7ae6f495dfa264627351281eb0d480ea566fbf34481e81fa09bd1cf6f4ef"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-02_01.md",
+    "bytes": 22767,
+    "sha256": "36576a68b83f3202dccd0b8f030e9688ba4dffdf74abb881e6deb7110a70fbef"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-03_01.md",
+    "bytes": 185842,
+    "sha256": "f06b28e4e9e0ba39a03eb10402b27be7bd43a4931bd4d52689905e284f3d4fc4"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-04_01.md",
+    "bytes": 534165,
+    "sha256": "87cc9c3ce8f4e7c7dbfbcabb17876f7ee3cc8bc39c082f34c4d125745b087ce2"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-05_01.md",
+    "bytes": 372398,
+    "sha256": "77be908d7c99d5655835888a26db0b961d55ea178aa77ac92848da47697a7700"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-06_01.md",
+    "bytes": 306222,
+    "sha256": "519dd7cdf1e6ef5b52ab12ce9ef096448172419010ecc30eaaa3bc18066255b1"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-07_01.md",
+    "bytes": 745195,
+    "sha256": "dec8070b5c853eeae5076f30284af626e1daea83b8d32c3ad87082abf9cd1153"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-08_01.md",
+    "bytes": 151332,
+    "sha256": "d6d2bcee977b663cee93a6058d252498c8fbb22e67e4127d5cd5470315bfcabe"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-09_01.md",
+    "bytes": 467356,
+    "sha256": "744b6ec015dbcfe1928d43e438f4fd99796c4e81c6d351cc8c662bc438be2498"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-10_01.md",
+    "bytes": 616417,
+    "sha256": "4a9b03d871dc82ca5c5c371265174f7c30677a9392e57e218be86dae52410343"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-11_01.md",
+    "bytes": 356045,
+    "sha256": "cc817e6c8a9c2a95dfaebc806f9429b7173635f05da72059c3bdf1cadcfceef6"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2025-12_01.md",
+    "bytes": 587736,
+    "sha256": "45d226041f316999d85886b81a1536b35cda996f83648cd91af70b045e81a20a"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-01_01.md",
+    "bytes": 274106,
+    "sha256": "80daa098fb429752cb80dde697cb3965e91e1c59c474edf6a647a63f649ace3f"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-02_01.md",
+    "bytes": 632517,
+    "sha256": "8b92397fd7b5c7b7b0b111a3e988a61849c727246568da59e89838b1fbc90cfd"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-03_01.md",
+    "bytes": 4055737,
+    "sha256": "5cf07d7f9d13a691c0eaf135d1110a16bf10f3df00d53402d11773e2c857dd6b"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-04_01.md",
+    "bytes": 6985706,
+    "sha256": "b4909c0110e5c310d535050816cb608be915e58d3046e1306cd9025591bf1fca"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-04_02.md",
+    "bytes": 3980633,
+    "sha256": "a1f94c02c0c0c54e6307084b5a1530345a25f86d9dae80ec4626b6a25d6986e3"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-05_01.md",
+    "bytes": 4044027,
+    "sha256": "34ddbfd05d3437dc7fe305b9b53df67fc9484c673b35fdda47f390aacfe7a7cd"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-06_01.md",
+    "bytes": 2672303,
+    "sha256": "2c5da60a2854d4bb1403b266a8d6cc3090ded8c44d2e7ab4ba633d2520f1828d"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-07_01.md",
+    "bytes": 1465129,
+    "sha256": "61f97c23e1768b50c04f619ad84b503b11c34dd8b14123d2d3bbe65a130ebd18"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-08_01.md",
+    "bytes": 6661550,
+    "sha256": "9241ccbaa5ae5795bab28482aafadd7add0b331c9c21d3e2d90772553b580df3"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-09_01.md",
+    "bytes": 6984441,
+    "sha256": "0a0c20a3efe03b1309c78be7f072c0953003cb790d3b35eefc301aca12f52564"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-09_02.md",
+    "bytes": 6963839,
+    "sha256": "693e932fc5c2597a144bdce285b8f54a7d1f5026a98fc5bfc784c7943085ac68"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-09_03.md",
+    "bytes": 6994209,
+    "sha256": "d7ac7171d2c4213ef02da86e8c5a9273585e5fe4dbb8c6e68633be4db80164f9"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-09_04.md",
+    "bytes": 1654012,
+    "sha256": "8f93d9fccece3f3de33339b2c71c2606c836afe781359fa28dbea344778fe8da"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-10_01.md",
+    "bytes": 6994255,
+    "sha256": "fa4b10b9d5634411c9e7812523a5648e1f2f744aac7368d59e30db8f2051c033"
+  },
+  {
+    "path": "conversation_master_v1/parts/web_2026-10_02.md",
+    "bytes": 4918551,
+    "sha256": "6b9cff6eefa6459a95b5a0011126712195f0358bba8cdda3d361eceb0341b770"
+  },
+  {
+    "path": "conversation_master_v1/tools/README.md",
+    "bytes": 1494,
+    "sha256": "131c32df319b85e8fd35b2c4f8d4cc766b8f9900fb00586e89ec9a7841f50071"
+  },
+  {
+    "path": "conversation_master_v1/tools/archive.py",
+    "bytes": 51472,
+    "sha256": "b8ffefd5b0e01b5e4719ae33883920ae07cb9d061e72a78538536140e2e6f68b"
+  }
+]

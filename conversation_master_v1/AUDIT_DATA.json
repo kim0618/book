@@ -1,0 +1,102 @@
+{
+  "scope": "2026-10-22 기존 조사 스냅샷",
+  "counts": {
+    "web_class_WORK": 6397,
+    "web_class_messages_WORK": 22304,
+    "web_class_BOUNDARY_BACKGROUND": 984,
+    "web_class_messages_BOUNDARY_BACKGROUND": 2668,
+    "web_class_PRIVATE": 1667,
+    "web_class_messages_PRIVATE": 5833,
+    "web_class_BOUNDARY_INVEST": 141,
+    "web_class_messages_BOUNDARY_INVEST": 1068,
+    "web_class_PROJECT": 3007,
+    "web_class_messages_PROJECT": 21009,
+    "web_class_BOUNDARY_SELF": 18,
+    "web_class_messages_BOUNDARY_SELF": 71,
+    "web_class_META": 22,
+    "web_class_messages_META": 638,
+    "rendered_messages": 35141,
+    "rendered_characters_before_mask": 82110954,
+    "masked_messages": 10945,
+    "archive_only_thoughts": 32221,
+    "archive_only_recap": 4374,
+    "privacy_blocked_messages": 682,
+    "archive_only_extra_tool_use": 2586,
+    "archive_only_extra_tool_result": 2584,
+    "archive_only_attachment_blocks": 105,
+    "archive_only_extra_thinking": 1715,
+    "archive_only_injected": 2125,
+    "archive_only_extra_injected": 32,
+    "archive_only_tool_io": 76104,
+    "archive_only_extra_token_budget": 1,
+    "archive_only_extra_image": 68,
+    "archive_only_extra_document": 14,
+    "web_conversations": 831,
+    "local_sessions": 946,
+    "events": 4953,
+    "web_events": 4150,
+    "local_events": 803,
+    "web_messages": 53591,
+    "local_messages": 153486,
+    "connections": 2024,
+    "connection_time_uncertain": 208,
+    "machine_split_web_events": 1961
+  },
+  "raw_counts": {
+    "chatgpt_conversations": 740,
+    "chatgpt_messages": 47805,
+    "claude_web_conversations": 91,
+    "claude_web_messages": 5786
+  },
+  "local_raw_messages_verified": 152216,
+  "reconciled_local_sessions": [
+    {
+      "platform": "codex_wsl",
+      "id": "01a16212-2956-76f2-bd8e-a42f8fd8ca38",
+      "messages_before": 15,
+      "messages_after": 18
+    },
+    {
+      "platform": "codex_wsl",
+      "id": "01a16212-2a43-7403-804a-d6c46cc2807d",
+      "messages_before": 19,
+      "messages_after": 35
+    }
+  ],
+  "vanished_local_sessions": [
+    {
+      "platform": "claude_code_wsl",
+      "id": "ecea8775-439f-47c1-87c8-353074fc8861",
+      "messages": 523
+    },
+    {
+      "platform": "claude_code_wsl",
+      "id": "agent-a0f05479267680b7d",
+      "messages": 18
+    },
+    {
+      "platform": "claude_code_wsl",
+      "id": "agent-a1190d63fe9d648fa",
+      "messages": 100
+    },
+    {
+      "platform": "claude_code_wsl",
+      "id": "agent-ac2f995eb4f6ca106",
+      "messages": 67
+    },
+    {
+      "platform": "claude_code_wsl",
+      "id": "f5aad998-96a7-4922-8b49-f752546fa6a1",
+      "messages": 562
+    }
+  ],
+  "original_files_compared": 1343,
+  "errors": [],
+  "lossless_original_archive_complete": false,
+  "limitations": [
+    "로컬 세션 5개는 원본 사본 생성 전에 유실; 정규화 텍스트만 보존",
+    "ChatGPT 내보내기 ZIP의 첨부 구간 손상; 대화 JSON 전체와 첨부 실물 보존은 별개",
+    "기계 분할 보존 구간의 의미상 사건 경계 및 문장 대조 연결의 인과관계는 미확정",
+    "가림 처리는 출판 승인이나 간접 식별 위험의 전수 검토를 뜻하지 않음"
+  ]
+}
